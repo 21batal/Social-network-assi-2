@@ -1,0 +1,13 @@
+Graph created successfully!
+Number of nodes: 6
+Number of edges: 12
+Node features shape: torch.Size([6, 6])
+Edge index shape: torch.Size([2, 12])
+Labels: [0, 0, 0, 1, 1, 1]
+Train mask: [True, True, True, True, False, False]
+Test mask: [False, False, False, False, True, True]
+
+Graph edges (NetworkX): [(0, 1), (0, 2), (1, 2), (3, 4), (3, 5), (4, 5)]
+Edge index (PyG format):
+tensor([[0, 0, 1, 3, 3, 4, 1, 2, 2, 4, 5, 5],
+        [1, 2, 2, 4, 5, 5, 0, 0, 1, 3, 3, 4]])

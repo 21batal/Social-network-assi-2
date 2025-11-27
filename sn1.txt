@@ -1,0 +1,7 @@
+Training progress:
+Epoch 10/50, Loss: 1.4130
+Epoch 20/50, Loss: 0.9096
+Epoch 30/50, Loss: 0.5685
+Epoch 40/50, Loss: 0.3336
+Epoch 50/50, Loss: 0.1775
+Final result: GCN Test Accuracy: 0.74 (74%)
